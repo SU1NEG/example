@@ -9,3 +9,6 @@ def hi():
 def changing():
     print("yeni bir değişiklik yaptım")    
 
+def new():
+    print("yeni bir fonksiyon ekledim")      
+
